@@ -1,11 +1,43 @@
+=============================================================================
+GENERAL LINKS
+=============================================================================
 http://www.epochconverter.com/ [Date time & Timestamp online]
 http://www.bgr.in/ [technology related news]
 http://www.qr-code-generator.com/ [Generate QR Code of url]
 http://sharedrop.io/ [Share your file mobile to pc etc.]
-https://codyhouse.co/ [CSS Elements]
-http://tympanus.net/codrops/ [CSS Elements]
-http://outdatedbrowser.com [Show out dated browser to user]
+
+=============================================================================
+PHP LINKS
+=============================================================================
+https://wordpress.org/plugins/adaptive-images/ [Image resize for responsive design wordpress]
+http://adaptive-images.com [Image resize for responsive design]
+
+=============================================================================
+JAVASCIPT/jQuery LINKS
+=============================================================================
 https://github.com/ryandrewjohnson/jquery-fblogin [jQuery facebook login]
-https://onlinefontconverter.com/ [font generator]
-https://wordpress.org/plugins/adaptive-images/ [adaptive images for wordpress]
-http://adaptive-images.com [resize images resolution wise]
+http://outdatedbrowser.com [Show out dated browser to user]
+
+=============================================================================
+CSS LINKS
+=============================================================================
+https://onlinefontconverter.com/ [font support in all browser]
+
+=============================================================================
+TESTING LINKS
+=============================================================================
+http://mailinator.com/ [EMAIL TESTING]
+https://randomuser.me/ [GET RANDOM USER FOR TESTING]
+
+
+=============================================================================
+STRIPE LINKS
+=============================================================================
+https://stripe.com/docs/testing [For testing stripe cards]
+
+
+=============================================================================
+HTML FANCY ELEMENTS LINKS
+=============================================================================
+https://codyhouse.co/
+http://tympanus.net/codrops/
