@@ -19,6 +19,8 @@ JAVASCIPT/jQuery LINKS
 https://github.com/ryandrewjohnson/jquery-fblogin [jQuery facebook login]
 http://outdatedbrowser.com [Show out dated browser to user]
 
+http://www.pinyin.info/tools/converter/chars2uninumbers.html [Any language characters to unicode except english]
+
 =============================================================================
 CSS LINKS
 =============================================================================
