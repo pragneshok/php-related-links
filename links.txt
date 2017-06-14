@@ -7,6 +7,9 @@ http://www.qr-code-generator.com/ [Generate QR Code of url]
 http://sharedrop.io/ [Share your file mobile to pc etc.]
 http://flaticon.com/ [chage icon color etc etc]
 
+http://jscrollpane.kelvinluck.com/ [custom scrollbar]
+https://github.com/pragneshok/toastr [custom toast message]
+
 =============================================================================
 PHP LINKS
 =============================================================================
