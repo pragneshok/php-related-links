@@ -13,6 +13,10 @@ https://github.com/pragneshok/toastr [custom toast message]
 =============================================================================
 PHP LINKS
 =============================================================================
+
+https://3v4l.org/  [PHP code execute online]
+
+
 https://wordpress.org/plugins/adaptive-images/ [Image resize for responsive design wordpress]
 http://adaptive-images.com [Image resize for responsive design]
 
