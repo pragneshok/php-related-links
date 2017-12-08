@@ -16,6 +16,8 @@ PHP LINKS
 
 https://3v4l.org/  [PHP code execute online]
 
+http://www.webconfs.com/web-tools/url-rewriting-tool/ [URL REWRITE]
+
 
 https://wordpress.org/plugins/adaptive-images/ [Image resize for responsive design wordpress]
 http://adaptive-images.com [Image resize for responsive design]
