@@ -40,6 +40,7 @@ TESTING LINKS
 =============================================================================
 http://mailinator.com/ [EMAIL TESTING]
 https://randomuser.me/ [GET RANDOM USER FOR TESTING]
+http://yopmail.com/ [EMAIL TESTING]
 
 
 =============================================================================
